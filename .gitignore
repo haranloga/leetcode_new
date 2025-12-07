@@ -1,0 +1,4 @@
+%USERPROFILE%/
+.claude/
+__pycache__/
+*.pyc
